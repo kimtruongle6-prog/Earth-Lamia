@@ -9,7 +9,7 @@ This project was born to address the **Remediation Gap** existing within nationa
 
 **Malware Analyzer Pro** provides the "arsenal" for cybersecurity professionals to audit **CI/CD Dark Zones** and monitor dynamic behaviors directly within RAM.
 
-* 📖 **Detailed Operation Guide:** [TECHNICAL_GUIDE.md](./TECHNICAL_GUIDE.md)
+* 📖 **Detailed Operation Guide:** [TECHNICAL_GUIDE.md](./docs/TECHNICAL_GUIDE.md)
 
 ---
 
