@@ -1,13 +1,7 @@
-# 🛡️ Malware Analyzer Pro: Advanced Memory Forensics & Threat Intelligence
+# Earth-Lamia: Memory Forensics & Threat Hunting Research
 
-**Malware Analyzer Pro** is an open-source framework engineered with high precision to hunt and neutralize sophisticated stealth techniques used by APT groups, specifically **Earth Lamia (UNC5174)**. This project shifts the defensive paradigm from reactive to **Proactive Threat Hunting**, focusing on deconstructing fileless layers that traditional scanners often overlook.
-
----
-
-## 🔍 Overview: Closing the "Remediation Gap"
-This project was born to address the **Remediation Gap** existing within national knowledge infrastructures. Statistics show that vulnerabilities like **CVE-2019-18935** (Telerik RCE) are still being exploited more than **2,190 days (6 years)** after international warnings were issued. 
-
-**Malware Analyzer Pro** provides the "arsenal" for cybersecurity professionals to audit **CI/CD Dark Zones** and monitor dynamic behaviors directly within RAM.
+## 📌 Overview
+This repository contains research artifacts, memory forensics modules, and hunting rules focused on investigating technical indicators associated with the **Earth Lamia (UNC5174)** APT campaign. The framework is designed to assist analysts in parsing memory artifacts, extracting structural indicators, and structuring Yara rules for targeted hunting.
 
 * 📖 **Detailed Operation Guide:** [TECHNICAL_GUIDE.md](./docs/TECHNICAL_GUIDE.md)
 
