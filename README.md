@@ -1,4 +1,10 @@
 # Earth-Lamia: Memory Forensics & Threat Hunting Research
+---
+**Author:** K. Le  
+**Affiliation:** Independent Research  
+**Research Focus:** Malware Analysis, Threat Hunting, Detection Engineering
+
+**Copyright:** © 2026 K. Le. Applies only to original materials authored for this project. Third-party materials remain subject to their respective licenses.
 
 ## 📌 Overview
 This repository contains research artifacts, memory forensics modules, and hunting rules focused on investigating technical indicators associated with the **Earth Lamia (UNC5174)** APT campaign. The framework is designed to assist analysts in parsing memory artifacts, extracting structural indicators, and structuring Yara rules for targeted hunting.
