@@ -57,4 +57,4 @@ Project behaviors are directly mapped to the international technical framework t
 
 *All data within this repository has been sanitized to protect victim identities.*
 
-**Author:** kimtruongle
+**Author:** K. Le

@@ -3,7 +3,7 @@ import psutil
 import re
 
 # Metadata for GitHub Project Artifacts
-__author__ = "kimtruongle"
+__author__ = "K. Le"
 __reference__ = "Campaign Earth Lamia (UNC5174)"
 __description__ = "Lightweight forensic scanner for webshells and anomalous w3wp.exe child processes"
 
