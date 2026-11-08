@@ -1,6 +1,6 @@
 rule Detect_Earth_Lamia_Behavior {
     meta:
-        author = "kimtruongle"
+        author = "K. Le"
         reference = "Campaign Earth Lamia (UNC5174)"
         description = "Detects behavioral patterns and memory artifacts of Earth Lamia exploiting Telerik UI vulnerabilities"
         target_cve = "CVE-2019-18935"
